@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar .collapse .navbar-nav .nav-item .nav-link {
+  color: green !important;
+}
+.navbar .collapse .navbar-nav .nav-item .nav-link.active{
+  color: pink !important;
+}
